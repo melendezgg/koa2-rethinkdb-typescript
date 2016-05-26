@@ -1,9 +1,9 @@
 {
-  "ambientDependencies": {
+  "globalDependencies": {
     "koa": "registry:dt/koa#2.0.0+20160317120654",
     "koa-bodyparser": "registry:dt/koa-bodyparser#3.0.0+20160414124440",
     "koa-router": "registry:dt/koa-router#7.0.0+20160314083221",
-    "node": "registry:dt/node#4.0.0+20160509154515",
+    "node": "registry:dt/node#6.0.0+20160524002506",
     "rethinkdb": "registry:dt/rethinkdb#1.10.0+20160316155526"
   }
 }

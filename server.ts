@@ -1,4 +1,4 @@
-/// <reference path="typings/main.d.ts" />
+/// <reference path="typings/index.d.ts" />
 
 // # Node v6.2.0
 // tsc -t ES6 --module 'commonjs' server.ts
